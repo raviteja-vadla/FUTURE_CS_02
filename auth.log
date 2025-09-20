@@ -1,0 +1,20 @@
+Sep 19 09:01:12 ubuntu sshd[1234]: Failed password for invalid user admin from 203.0.113.10 port 44562 ssh2
+Sep 19 09:01:14 ubuntu sshd[1235]: Failed password for invalid user test from 203.0.113.10 port 44563 ssh2
+Sep 19 09:01:16 ubuntu sshd[1236]: Failed password for invalid user root from 203.0.113.10 port 44564 ssh2
+Sep 19 09:01:19 ubuntu sshd[1237]: Failed password for root from 203.0.113.10 port 44565 ssh2
+Sep 19 09:01:22 ubuntu sshd[1238]: Failed password for root from 203.0.113.10 port 44566 ssh2
+Sep 19 09:01:25 ubuntu sshd[1239]: Accepted password for root from 203.0.113.10 port 44567 ssh2
+Sep 19 09:05:33 ubuntu sshd[1240]: Failed password for invalid user guest from 198.51.100.25 port 51234 ssh2
+Sep 19 09:05:35 ubuntu sshd[1241]: Failed password for invalid user admin from 198.51.100.25 port 51235 ssh2
+Sep 19 09:05:37 ubuntu sshd[1242]: Failed password for invalid user test from 198.51.100.25 port 51236 ssh2
+Sep 19 09:05:39 ubuntu sshd[1243]: Failed password for invalid user root from 198.51.100.25 port 51237 ssh2
+Sep 19 09:05:42 ubuntu sshd[1244]: Failed password for root from 198.51.100.25 port 51238 ssh2
+Sep 19 09:05:45 ubuntu sshd[1245]: Failed password for root from 198.51.100.25 port 51239 ssh2
+Sep 19 09:05:47 ubuntu sshd[1246]: Failed password for root from 198.51.100.25 port 51240 ssh2
+Sep 19 09:05:50 ubuntu sshd[1247]: Accepted password for root from 198.51.100.25 port 51241 ssh2
+Sep 19 09:10:01 ubuntu sshd[1248]: Failed password for invalid user oracle from 192.0.2.50 port 60222 ssh2
+Sep 19 09:10:04 ubuntu sshd[1249]: Failed password for invalid user postgres from 192.0.2.50 port 60223 ssh2
+Sep 19 09:10:06 ubuntu sshd[1250]: Failed password for invalid user admin from 192.0.2.50 port 60224 ssh2
+Sep 19 09:10:08 ubuntu sshd[1251]: Failed password for root from 192.0.2.50 port 60225 ssh2
+Sep 19 09:10:11 ubuntu sshd[1252]: Failed password for root from 192.0.2.50 port 60226 ssh2
+Sep 19 09:10:14 ubuntu sshd[1253]: Accepted password for root from 192.0.2.50 port 60227 ssh2
