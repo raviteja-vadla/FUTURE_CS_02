@@ -1,17 +1,21 @@
 # FUTURE_CS_02 – Security Alert Monitoring & Incident Response
 
-**Intern:** Rav Tej
+**Intern:** Rav Tej  
+**Internship:** Cyber Security Internship – Future Interns  
 
 ## Summary of Findings
-- Brute force SSH attempts detected (multiple failed password attempts).
-- Successful root login from attacker IP(s) — confirmed compromise.
-- Deliverables: incident_report_task2.pdf, auth.log, Splunk evidence screenshots.
+- Detected multiple SSH brute force attempts (17 failed logins).
+- Identified attacker IPs responsible for repeated login attempts.
+- Confirmed successful root login from attacker IPs (system compromise).
+- Severity: Critical — unauthorized administrative access obtained.
 
-## Files
-- `incident_report_task2.pdf` — full incident report
-- `auth.log` — analyzed authentication log
-- `screenshots/` — evidence screenshots (failed_logins.png, bruteforce_summary.png, successful_logins.png)
+## Deliverables
+- `incident_report_task2.pdf` — full incident report  
+- `incident_report_task2.docx` — editable version  
+- `auth.log` — analyzed Linux SSH authentication log  
+- `screenshots/` — evidence from Splunk queries  
 
-## Tools
-- Splunk Enterprise (Search & Reporting)
-
+## Tools Used
+- Splunk Enterprise (log ingestion, search, reporting)  
+- Regex field extraction (`rex`) for attacker IPs  
+- SOC-style incident response methodology  
