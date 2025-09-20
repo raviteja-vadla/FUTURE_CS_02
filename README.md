@@ -1,6 +1,6 @@
 # FUTURE_CS_02 – Security Alert Monitoring & Incident Response
 
-**Intern:** Rav Tej  
+**Intern:** Raviteja Vadla  
 **Internship:** Cyber Security Internship – Future Interns  
 
 ## Summary of Findings
